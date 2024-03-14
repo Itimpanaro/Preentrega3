@@ -426,7 +426,7 @@
     text-align: end;
     
   }
-
+  
   @media (max-width: 768px) {
     header nav div a .banner-img {
       width: 150px;

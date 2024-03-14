@@ -113,7 +113,7 @@ function eliminarDelCarrito(id) {
 }
 
 function crearCodigo(){
-    const newsDiv = document.querySelector('.total-precio');
+    const newsDiv = document.querySelector('.codigo-descuento');
     const nuevoMensaje = document.createElement('div')
     nuevoMensaje.classList.add('newsletter-texto')
     nuevoMensaje.innerHTML = `TU CODIGO ES: NIKE10OFF`
